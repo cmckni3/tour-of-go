@@ -16,4 +16,3 @@ var (
 func main() {
 	fmt.Println(v1, p, v2, v3)
 }
-

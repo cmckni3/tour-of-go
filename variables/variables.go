@@ -22,4 +22,3 @@ func main() {
   five := "I know what I am"
   fmt.Println(five)
 }
-

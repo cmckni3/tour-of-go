@@ -11,4 +11,3 @@ func main() {
 	var z int = int(f)
 	fmt.Println(x, y, z)
 }
-

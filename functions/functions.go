@@ -22,4 +22,3 @@ func parseName(name string) (first, last string) {
   parsed := strings.Split(name, " ")
   return parsed[0], parsed[1]
 }
-

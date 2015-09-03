@@ -17,4 +17,3 @@ func main() {
 	fmt.Printf(f, MaxInt, MaxInt)
 	fmt.Printf(f, z, z)
 }
-
