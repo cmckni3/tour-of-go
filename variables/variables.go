@@ -1,24 +1,22 @@
 package main
 
-import(
-  "fmt"
+import (
+	"fmt"
 )
 
 func main() {
-  var one int = 1
+	var one int = 1
 
-  fmt.Println(one)
+	fmt.Println(one)
 
+	var two, three string = "two", "three"
 
-  var two, three string = "two", "three"
+	fmt.Println(two, three)
 
-  fmt.Println(two, three)
+	var four = true
 
-  var four = true
+	fmt.Println(four)
 
-  fmt.Println(four)
-
-
-  five := "I know what I am"
-  fmt.Println(five)
+	five := "I know what I am"
+	fmt.Println(five)
 }
